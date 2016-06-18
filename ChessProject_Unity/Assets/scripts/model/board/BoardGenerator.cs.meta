@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2feb0183237a1746b86da9734314d9a
+timeCreated: 1464765399
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - caseNoire: {fileID: 183824, guid: 33c5ab644f548ea46bf710dcdf1bd397, type: 2}
+  - caseBlanche: {fileID: 148570, guid: bcee430c96857b64cb1f76c974ecf495, type: 2}
+  - whitePawn: {fileID: 103296, guid: 3ca7437b489dd41be8e8535f21c9619a, type: 2}
+  - blackPawn: {fileID: 123600, guid: 80873444168a94e689cc09bc7ac97e20, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
